@@ -1,2 +1,2 @@
 # Third-Person-Controller
-The Easiest way to create a Third Person Controller with a moving camera using  Starter Assets!
+Project files for our series on "a Third Person Controller with a moving camera using Starter Assets"   Check out our [YouTube Channel](https://www.youtube.com/c/gdtitans) for more tutorials.
